@@ -1,0 +1,86 @@
+https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+
+******** SITE CONTENT ********
+
+-------- Colors --------
+
+background dark  	: #292929;
+background light 	: #353535;
+color				: #f3971b;
+text color			: #c2c0c3;
+
+-------- All Section --------	
+
+1. Header
+2. Home
+3. About
+4. Services
+5. Skills
+6. Portfolio
+7. Team
+8. Contact form
+9. Footer
+
+1. ----- Header Section Content -----
+
+	Home, About, Services, Portfolio, Team, Contact
+
+2. ----- Home Section Content ----- 
+
+	Hi, I'm Sarita Sharma
+	Frontend Developer
+
+3. ----- About Section Content -----
+
+	Hi, I'm Sarita Sharma
+	Frontend Developer based in New Delhi
+
+	Lorem ipsum dolor sit amet, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+
+	Download Cv		Hire Me
+
+4. ----- Service Section Content -----
+
+						> FONT AWESOME ICONS CODES
+	Web Development		> fa-laptop
+	Responsive Design 	> fa-mobile
+	Creative Design		> fa-pencil
+	Clean Code 			> fa-code
+	Fast Support 		> fa-support
+	Branding Identity 	> fa-rocket
+
+5. 	----- Skills Section Content -----	
+
+	Html5
+	Css
+	JavaScript
+	Angular
+	Php
+	Java
+	React
+
+6. ----- Portfolio Section Content -----
+
+	Web Design
+	Graphic Design
+	Branding
+
+7. ----- Team Section Content -----	
+
+	Monu Gupta		> Web Developer
+	Riya Singh		> Designer
+	Prateek Jain	> App Developer
+
+8. ----- Contact Form Content -----
+
+	Name			> text
+	Email			> email
+	Subject			> text
+	Message			> textarea
+	Send Message	> Button
+
+9. ----- Footer Content -----
+
+	Phone No 		E-mail			Location
+	________________________________________
+		Social Media Links
